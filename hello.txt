@@ -3,7 +3,7 @@ Hello cgwx!Hello git! hot-fix :
 Hello cgwx!Hello git!
 Hello cgwx!Hello git!
 Hello cgwx!Hello git!
-Hello cgwx!Hello git!
+Hello cgwx!Hello git! hotfix-test
 Hello cgwx!Hello git!
 Hello cgwx!Hello git!
 Hello cgwx!Hello git!
